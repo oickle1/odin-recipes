@@ -1,5 +1,7 @@
 *{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #aa2d4c;
+    color: #f5ee34;
 }
 
 img{
@@ -17,4 +19,8 @@ img{
     align-items: center;
     font-size: 25px;
     font-weight: bold;
+}
+
+a:link, a:visited{
+    color: #49f6a8;
 }
